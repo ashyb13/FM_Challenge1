@@ -86,7 +86,7 @@ I still don't feel too confident with aligning my objects, especially when it co
 
 
 ## Acknowledgments
-I worked alongside a fellow friend of mine, Adnaan. He has really helped me grip the understanding of things I tend to forget and is always willing to help me/anyone who needs it.
+I worked alongside a fellow friend of mine, Net-Runner-Syndrome. He has really helped me grip the understanding of things I tend to forget and is always willing to help me/anyone who needs it.
 
 Here's a link if you'd like to check out some of his stuff:
 GITHUB - [@Net-Runner-Syndrome](https://github.com/Net-Runner-Syndrome)
